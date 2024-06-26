@@ -75,5 +75,6 @@ class HistoriesController extends Controller
         return response()->json(['message' => 'Histories deleted successfully'], 200);
     }
 }
+//HOLA :)
 
-
+//Aqui en historiesController 
