@@ -76,3 +76,5 @@ class HistoriesController extends Controller
     }
 }
 //HOLA :)
+
+//Aqui en historiesController 
